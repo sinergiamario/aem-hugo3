@@ -23,3 +23,5 @@ fields:
     name: column
     label: Column
     template: text-column
+pages:
+- content/teston.md
